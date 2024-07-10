@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #2cb7da;
+    color: white;
+  }
+  button{
+    background-color: #06090f;
+    color: white ;
+    height: 40px;
+    border-radius: 10px;
+ }
+
+Link {
+  color: white;
+}
